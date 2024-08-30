@@ -1,16 +1,9 @@
 # golangFamily
+
+【转自小白debug的库，仅做学习使用，如果要商用请联系原作者】
+
 【超全golang面试题合集+golang学习指南+golang知识图谱+成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。
 
-
-<p align="center">
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%B0%8F%E7%99%BDdebug-blue" alt="公众号"></a>
-  <a href="https://juejin.cn/user/4001878057422087"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E5%B0%8F%E7%99%BDdebug-yellow" alt="公众号"></a>
-  <a href="https://www.zhihu.com/people/jin-ji-de-ren-shan-ren"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%B0%8F%E7%99%BDdebug-yellowgreen" alt="投稿"></a>
-  <a href="https://blog.csdn.net/ilini"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
-  <a href="https://xiaobaidebug.top/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E5%B0%8F%E7%99%BDdebug-brightgreen" alt="博客"></a>
-  
-
-</p>
 
 ![](https://cdn.jsdelivr.net/gh/xiaobaiTech/image/%E5%90%8E%E7%AB%AF%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF.png)
 
@@ -34,11 +27,6 @@
 在公众号里回复【**面试**】即可获得！！
 
 如果大家看完电子书，觉得内容还不错，强烈希望大家能在**微信公众号**里搜索关注，并**星标**我的公众号，第一时间获取最新更新内容！
-
-<img src="https://cdn.xiaobaidebug.top/1696560465663.jpeg" style="zoom:30%" />
-
-
-
 
 
 还有**技术划水【交流群】**，点击公众号右下角【**联系我**】或**扫描以下二维码**，备注“**进群**”，欢迎大家进群交流~。
